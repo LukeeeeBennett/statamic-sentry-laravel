@@ -1,0 +1,5 @@
+fields:
+  enable:
+    type: toggle
+  dsn:
+    type: text

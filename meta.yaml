@@ -1,0 +1,6 @@
+name: StatamicSentryLaravel
+version: "1.0.0"
+description: Statamic addon for Sentry error reporting for Laravel
+url: https://github.com/LukeeeeBennett/statamic-sentry-laravel
+developer: Luke Bennett
+developer_url: https://github.com/LukeeeeBennett
